@@ -81,19 +81,6 @@ The leader of a trick may play any of the following:
   to their left who still has cards**.
 - The Scum **clears the table** between tricks (see House Rules).
 
-### Solo Continuation
-
-Once everyone else has passed, the remaining player may **keep playing onto
-their own pile** until they choose to stop. All normal play rules apply to
-each subsequent play:
-
-- Each play must **beat the previous one** with the **same quantity** (or go
-  *under* if a 7 was just played).
-- A **7** still flips the direction for the player's own next play.
-- A **Joker played alone** still ends the trick immediately.
-
-Whenever they decide to stop, they lead the next trick.
-
 ## Special Cards
 
 ### Sevens
@@ -118,6 +105,19 @@ Whenever they decide to stop, they lead the next trick.
   end the trick).
 - In a two-deck game, **a Joker cannot be beaten by another Joker** — they
   are equal in rank.
+
+## Solo Continuation
+
+Once everyone else has passed, the remaining player may **keep playing onto
+their own pile** until they choose to stop. All normal play rules apply to
+each subsequent play:
+
+- Each play must **beat the previous one** with the **same quantity** (or go
+  *under* if a 7 was just played).
+- A **7** still flips the direction for the player's own next play.
+- A **Joker played alone** still ends the trick immediately.
+
+Whenever they decide to stop, they lead the next trick.
 
 ## Going Out and Finishing Positions
 
